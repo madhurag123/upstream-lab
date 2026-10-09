@@ -61,3 +61,6 @@ Suggested extension: Add a regression case for an invalid named backreference an
 ## Honest portfolio use
 
 This implementation and documentation were developed with substantial Codex assistance. Before presenting it, run the demonstration, explain the design choices, and complete the suggested independent modification. Do not describe generated code as work experience, an accepted upstream contribution, or a deployed production service.
+
+
+[Publication provenance and current verification notes](PUBLICATION.md) · [Categorized collection](https://github.com/madhurag123/portfolio-index)
